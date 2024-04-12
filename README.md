@@ -29,7 +29,7 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 ```
 ping saveetha.ac.in
 ```
-## outrput
+## output
 ![Screenshot 2024-04-12 092018](https://github.com/hema-dharshini5/InformationGathering/assets/147117728/2f728bc7-9956-4234-a102-508f1d365fde)
 
 ## finding hosting company
