@@ -47,6 +47,13 @@ nc 172.17.52.118 80
 ```
 ## output
 ![Screenshot 2024-04-12 092312](https://github.com/hema-dharshini5/InformationGathering/assets/147117728/fbcb7c6d-2c9a-4cbe-ac56-de19e96d59d3)
+## Nmap:
+```
+nmap -p 21 -sV --script=banner ftp.vim.org
+```
+## output
+![Screenshot 2024-04-12 092327](https://github.com/hema-dharshini5/InformationGathering/assets/147117728/e93ea2a1-2ca4-4510-b7a7-64f35232d789)
+
 ## whatweb
 ```
 whatweb infosys.com
