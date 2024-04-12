@@ -51,7 +51,9 @@ nc 172.17.52.118 80
 ```
 whatweb infosys.com
 ```
+```
 whatweb zoho.com
+```
 ```
 whatweb -v -a 3 172.17.52.201
 ````
