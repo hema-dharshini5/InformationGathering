@@ -65,7 +65,8 @@ whatweb zoho.com
 whatweb -v -a 3 172.17.52.201
 ````
 ## output
-![Screenshot 2024-04-12 092327](https://github.com/hema-dharshini5/InformationGathering/assets/147117728/2994305b-7f98-437c-84a1-e22897054674)
+![Screenshot 2024-04-12 092401](https://github.com/hema-dharshini5/InformationGathering/assets/147117728/863fd627-a856-4ad6-b1f6-ebeb05e926dd)
+
 
 ## httprint:
 ```
