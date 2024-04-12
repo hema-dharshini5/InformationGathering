@@ -72,6 +72,18 @@ sudo traceroute -T www.saveetha.ac.in
 ```
 ## output
 ![Screenshot 2024-04-12 092446](https://github.com/hema-dharshini5/InformationGathering/assets/147117728/8b424ef0-3e80-472a-8102-3a57355aea94)
+## UDP Traceroute:
+```
+ sudo traceroute -U www.saveetha.ac.in
+```
+## output
+![Screenshot 2024-04-12 092517](https://github.com/hema-dharshini5/InformationGathering/assets/147117728/164d8520-9c0c-4e8d-acbf-9dee306b3b5f)
+## ICMP Traceroute:
+```
+sudo traceroute  www.saveetha.ac.in
+```
+## output
+![Screenshot 2024-04-12 092533](https://github.com/hema-dharshini5/InformationGathering/assets/147117728/c5585d44-dc4d-4ccf-9781-c07a63d1bb74)
 
 
 ## RESULT:
